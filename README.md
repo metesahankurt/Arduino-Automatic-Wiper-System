@@ -12,7 +12,9 @@ This project is an **Arduino-powered automatic windshield wiper system** designe
 📜 **Code Files** → Arduino source code (to be added)  
 📄 **Circuit Diagram** → [ArabaSilecek.pdf](ArabaSilecek.pdf) – Detailed wiring schematic  
 🔧 **PCB Design** → [ArabaSilecek.brd](ArabaSilecek.brd) – PCB design file  
-📷 **Project Image** → ![Automatic Wiper System](ArabaSilecek.png)  
+📷 **Project Image:**  
+
+<img src="ArabaSilecek.png" alt="Automatic Wiper System" width="600">  
 
 ## ⚙️ Components Used  
 - **Arduino (UNO/Nano/Pro Mini)**  
@@ -41,7 +43,7 @@ This project is an **Arduino-powered automatic windshield wiper system** designe
 🔧 **PCB File:** [ArabaSilecek.brd](ArabaSilecek.brd)  
 
 ### 🔹 Prototype Image  
-![Automatic Wiper System](ArabaSilecek.png)  
+<img src="ArabaSilecek.png" alt="Automatic Wiper System" width="600">  
 
 ## 🤝 Contributing  
 Feel free to contribute by submitting a **pull request** or reporting issues!  
